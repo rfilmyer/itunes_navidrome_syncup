@@ -1,0 +1,3 @@
+pandas==1.4.1
+git+https://github.com/liamks/libpytunes.git@0c734f3
+mutagen==1.45.1
